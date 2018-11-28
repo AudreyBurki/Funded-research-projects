@@ -15,7 +15,7 @@ In this project, funded by the DFG-Deutsche Forschungsgemeinshaft (2017-2021 "Va
 In this project, conducted together with Elsa Spinelli (Université Grenoble-Alpes, France) and Pauline Welby (Aix-Marseille Université, France), we examine the roles of orthography and variability in L2 word learning. This project is partly supported by the University of Potsdam International cooperation program (KoUP, 2018, 4427 €)
 
 ### Role of talker variability in adult speech processing
-This project results from a collaboration between two teams in the SFB 1287 and is funded by the DFG-SFB 1287 (19‘157 €, 2018-2019). Together with Barbara Höhle, Adamantios Gafos, Natalie Boll-Aveytisan, Sylvain Madec, and Marc Hullebus, we examine the role of talker variability in speech processing. 
+This project results from a collaboration between two teams in the SFB 1287 and is funded by the DFG-SFB 1287 (19‘157 €, 2018-2019). Together with Barbara Höhle, Rowena Garcia, Adamantios Gafos, Natalie Boll-Aveytisan, Sylvain Madec, and Marc Hullebus, we examine the role of talker variability in speech processing. 
 
 
 ## Past projects
