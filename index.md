@@ -1,7 +1,9 @@
-## New!!!
+
 
 
 ## Current projects
+
+### Planning utterances across languages !!!NEW!!!
 ### Variability in word production
 In this project, funded by the DFG-Deutsche Forschungsgemeinshaft (2017-2021 "Variability and its limits in the time course of language production" within the CRC 1287 “Limits of Variability in Language; Cognitive, Grammatical, and Social aspects, 287’900 €) we examine inter- and intra-individual variability in the time course of encoding processes during isolated noun production.
 
