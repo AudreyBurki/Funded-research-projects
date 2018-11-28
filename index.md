@@ -21,4 +21,4 @@ This project results from a collaboration between two teams in the SFB 1287 and 
 ## Past projects
 
 ### Production-perception link
-In this project, funded by the Swiss National Science Foundation (2015-2016, "All speakers are listeners, and vice versa: On the interface between production and comprehension processes" 119’562 CHF) we examine the representations involved in producing and perceiving speech at the phonological and phonetic encoding levels.
+In this project, funded by the Swiss National Science Foundation (2015-2016, "All speakers are listeners, and vice versa: On the interface between production and comprehension processes" 119’562 CHF) we examined the representations involved in producing and perceiving speech at the phonological and phonetic encoding levels.
