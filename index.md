@@ -1,6 +1,6 @@
 
 
-[back Home](https://audreyburki.github.io/Website/)
+[To main page](https://audreyburki.github.io/Website/)
 
 
 
