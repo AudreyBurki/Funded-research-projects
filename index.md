@@ -8,7 +8,7 @@
 ## Currently funded projects
 
 ### Planning utterances across languages !!!NEW!!!
-In this project, funded by the DFG-Deutsche Forschungsgemeinshaft (2019-2021) we will investigate how speakers plan utterances and in particular, how utterance planning (i.e., how many words are planned before the onset of articulation, in which order are words encoded within planning units). To do so, we capitalize on cross-linguistic differences in how words constrain the pronunciation of one another. We currently have a post-doc position to fill within this project (see [here](https://audreyburki.github.io/Job-Annoucement/) )
+In this project, funded by the DFG-Deutsche Forschungsgemeinshaft (2019-2021) we will investigate how speakers plan utterances and in particular, how utterance planning (i.e., how many words are planned before the onset of articulation, in which order are words encoded within planning units). To do so, we capitalize on cross-linguistic differences in how words constrain the pronunciation of one another. We currently have a post-doc position to fill within this project (see [here](https://audreyburki.github.io/Job-Announcement/) )
 
 
 ### Intra- and inter-speaker variability in word production
