@@ -3,6 +3,8 @@
 [To main page](https://audreyburki.github.io/Website/)
 
 
+## New !!
+New project funded by the DFG (3 years, 239’000 €) entitled "New insights into the speaker’s lexicon: Computational modelling and experimental data". The project will start in a few months.
 
 
 ## Currently funded projects
