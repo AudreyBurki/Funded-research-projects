@@ -3,7 +3,13 @@
 [To main page](https://audreyburki.github.io/Website/)
 
 
-## New !!
+## New !! (May 2021)
+The DFG funds the second phase of the [SFB 1287 on Variability in language](https://www.uni-potsdam.de/de/sfb1287/uebersicht.html), 2021-2025
+Our project in the second funding phase (B05, 320'660 €) will examine variability in advanced planning. Using a virtual driving simulator, we will investigate whether advanced planning (i.e., how much of an utterance is prepared before the onset of the articulation) depends on available cognitie resources.
+
+
+
+## New !! (March 2021)
 New project funded by the DFG (3 years, 239’000 €) entitled "New insights into the speaker’s lexicon: Computational modelling and experimental data". The project will start in a few months.
 
 
