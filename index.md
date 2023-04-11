@@ -4,7 +4,7 @@
 
 ## Newly funded projects 
 
-### (limits of) Variability in advanced planning
+### (limits of) Variability in advance planning
 May 2021. The DFG funds the second phase of the [SFB 1287 on Variability in language](https://www.uni-potsdam.de/de/sfb1287/uebersicht.html)
 Our project in the second funding phase (B05, 320'660 €, 4 years, P.I. A. Bürki) will examine variability in advanced planning. Using a virtual driving simulator, we will investigate whether advanced planning (i.e., how much of an utterance is prepared before the onset of the articulation) depends on available cognitie resources. The project will start in July.<br/>
 
