@@ -4,14 +4,14 @@
 
 ## Currently funded projects 
 
-### (limits of) Variability in advance planning
+### (limits of) Variability in advance planning (DFG, 320'660 €, 4 years, P.I. A. Bürki) 
 Started May 2021, this project is part of the second phase of the DFG funded [SFB 1287 on Variability in language](https://www.uni-potsdam.de/de/sfb1287/uebersicht.html).
 
-Our project (B05, 320'660 €, 4 years, P.I. A. Bürki) examines variability in advance planning. Using a virtual driving simulator, we investigate whether advance planning (i.e., how much of an utterance is prepared before the onset of the articulation) depends on available cognitive resources and how the interplay between planing and cognitive resources changes with age.<br/>
+Our project examines variability in advance planning. Using a virtual driving simulator, we investigate whether advance planning (i.e., how much of an utterance is prepared before the onset of the articulation) depends on available cognitive resources and how the interplay between planing and cognitive resources changes with age.<br/>
 
 
-### New insights into the speaker’s lexicon: Computational modelling and experimental data
-Started in 2022. Funded by the DFG (3 years, 239’000 €, P.I. A. Bürki). 
+### New insights into the speaker’s lexicon: Computational modelling and experimental data (DFG, 239’000 €, 3 years, P.I. A. Bürki).
+Started in 2022. Funded by the  
 This projects investigates
 Dominant psycholinguistic models of language production assume that words that are produced more often can be accessed more quickly in subsequent utterances. In these models, each word of the speaker’s language is represented in long term memory. According to these models, the system does not keep track of co-occurrences. If the same utterance is produced on day 1 and on day 2, the processes required to combine them do not remember that these words have been produced together before. 
 
